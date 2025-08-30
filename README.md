@@ -15,7 +15,13 @@ This project implements object detection using a custom-trained MobileNet SSD mo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Object-Detection.git
+    git clone https://github.com/SandeepaPethangoda/MOBILE_NET_SSD_CUSTOM.git
+    ```
+2. Better to create a virtual env:
+    ```bash
+    python -m venv venv
+
+    source venv/Scripts/activate
     ```
 2. Install dependencies:
     ```bash
